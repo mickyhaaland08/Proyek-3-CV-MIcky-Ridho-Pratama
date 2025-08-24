@@ -29,12 +29,6 @@ body {
     z-index: 1000;
 }
 
-.logo {
-    font-weight: bold;
-    font-size: 1.2rem;
-    color: #333;
-}
-
 .nav ul {
     display: flex;
     list-style: none;
@@ -110,6 +104,7 @@ body {
 .about-text {
     max-width: 500px;
     color: #f5f5f5;
+    text-align: justify;
 }
 
 .about-text a {
