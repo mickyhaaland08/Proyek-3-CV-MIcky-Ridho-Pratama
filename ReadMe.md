@@ -1,5 +1,7 @@
 **Portofolio – Micky Ridho Pratama**
+
 **Ringkasan**
+
 Website portofolio pribadi yang menampilkan informasi tentang saya sebagai mahasiswa Politeknik Negeri Bandung, program studi D3 Teknik Informatika. Website ini dirancang untuk memperkenalkan profil, layanan, serta menampilkan beberapa proyek yang pernah saya kerjakan.
 
 **Konten Website**
@@ -28,6 +30,9 @@ Website portofolio pribadi yang menampilkan informasi tentang saya sebagai mahas
 **Author**
 
 Micky Ridho Pratama
+
 Mahasiswa D3 Teknik Informatika – Politeknik Negeri Bandung
+
 Email: mickyrp08@gmail.com
+
 GitHub: mickyhaaland08
